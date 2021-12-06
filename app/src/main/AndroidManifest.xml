@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Activity33">
         <activity
+            android:name=".ResultPage"
+            android:exported="false" />
+        <activity
             android:name=".Guessing_Game1"
             android:exported="false" />
         <activity
